@@ -1,5 +1,5 @@
 ##Deployment Link : 
-https://vercel.com/gelli-gayathris-projects/assignment
+https://assignment-mocha-pi.vercel.app/
 
 # Project Title: Communication Calendar
 
