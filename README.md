@@ -1,7 +1,6 @@
 ##Deployment Link : 
 https://vercel.com/gelli-gayathris-projects/assignment
 
-<<<<<<< HEAD
 # Project Title: Communication Calendar
 
 An intuitive application for managing and tracking communication schedules for companies, ensuring streamlined interactions and efficient task management.
