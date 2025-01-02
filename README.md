@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Title: Communication Calendar
 
 An intuitive application for managing and tracking communication schedules for companies, ensuring streamlined interactions and efficient task management.
@@ -84,3 +85,6 @@ This application is designed to simplify communication tracking and make the man
 
 
 
+=======
+# Assignment
+>>>>>>> bb952b1511a690549f86b22777205317748eaf40
